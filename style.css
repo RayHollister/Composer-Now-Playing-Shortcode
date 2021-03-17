@@ -1,0 +1,9 @@
+.composer-now-playing {
+    font-size: .8em;
+    line-height: 1em;
+    height: 50px;
+    margin: 0;
+}
+.current-show a {
+    color: #006bb6;
+}
