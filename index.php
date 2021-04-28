@@ -3,7 +3,7 @@
 /*
 
 Plugin name: WJCT Composer Now Playing Shortcode
-Author: Md. , Matthew Forgette, Sarwar-A-Kawsar, Ray Hollister
+Author: Matthew Forgette, Md. Sarwar-A-Kawsar, Ray Hollister
 Version: 1.2
 
 1.1 Working PHP API call
